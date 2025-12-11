@@ -9885,9 +9885,7 @@ h6,
 .courses-item:hover .courses-text {
   height: calc(100% + 40px);
 }
-.courses-carousel .owl-nav {
-  display:block !important;
-}
+
 .team-carousel .owl-nav,.courses-carousel .owl-nav,
 .related-carousel .owl-nav {
   position: absolute;
