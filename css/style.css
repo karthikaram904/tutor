@@ -9963,7 +9963,7 @@ h6,
   background: #2878EB;
 }
 @media (min-width: 768px) and (max-width: 1024px){
-  .tab-img
+  .tabview-img
   {
     height: 500px;
   text-align: center;
