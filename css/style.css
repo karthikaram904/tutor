@@ -9886,7 +9886,7 @@ h6,
   height: calc(100% + 40px);
 }
 .courses-carousel .owl-nav {
-  display: block !important;
+  display:block;
 }
 .team-carousel .owl-nav,.courses-carousel .owl-nav,
 .related-carousel .owl-nav {
