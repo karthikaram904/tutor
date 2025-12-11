@@ -46,7 +46,7 @@
         smartSpeed: 1500,
         loop: true,
         dots: false,
-        nav : false,
+        nav : true,
         responsive: {
             0:{
                 items:1
@@ -134,4 +134,5 @@
     });
     
 })(jQuery);
+
 
