@@ -9885,8 +9885,10 @@ h6,
 .courses-item:hover .courses-text {
   height: calc(100% + 40px);
 }
-
-.team-carousel .owl-nav,
+.courses-carousel .owl-nav {
+  display: block !important;
+}
+.team-carousel .owl-nav,.courses-carousel .owl-nav,
 .related-carousel .owl-nav {
   position: absolute;
   width: 100%;
@@ -9899,6 +9901,8 @@ h6,
 }
 
 .team-carousel .owl-nav .owl-prev,
+.courses-carousel .owl-nav .owl-prev,
+.courses-carousel .owl-nav .owl-next,
 .team-carousel .owl-nav .owl-next,
 .related-carousel .owl-nav .owl-prev,
 .related-carousel .owl-nav .owl-next {
